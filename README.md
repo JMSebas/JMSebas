@@ -3,14 +3,12 @@
 
 Soy un entusiasta desarrollador con un amor apasionado por la creación de soluciones tecnológicas. Mi enfoque es combinar la creatividad con la funcionalidad para ofrecer experiencias únicas y efectivas.
 
-## 💼 Experiencia Laboral
 
-Actualmente trabajando en [Nombre de la Empresa/Proyecto], donde [breve descripción de tu papel y responsabilidades].
 
 ## 📚 Educación
 
-- **Grado en Desarrollo de Software**
-  - Universidad [Nombre de la Universidad]
+- **Estudiante de desarrollo de Software**
+  - Universidad Tecnica de Ambato
   - Año de Graduación: [Año]
 
 
