@@ -9,7 +9,7 @@ Soy un entusiasta desarrollador con un amor apasionado por la creación de soluc
 
 - **Estudiante de desarrollo de Software**
   - Universidad Tecnica de Ambato
-  - Año de Graduación: [Año]
+
 
 
 
