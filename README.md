@@ -2,9 +2,9 @@
   
 # 👨‍💻 Hi, I'm JMSebas!
 
-### Backend Developer | API Enthusiast | Database Architect
+### Backend Developer 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Backend+Developer;API+Designer;Database+Specialist;Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Backend+Developer;API+Designer;Problem+Solver" alt="Typing SVG" />
 
 </div>
 
@@ -89,9 +89,8 @@ const jmsebas = {
 ## 💼 What I'm Working On
 
 - 🔭 Building scalable backend systems
-- 🌱 Learning advanced database optimization
+- 🌱 Learning database optimization
 - 👯 Looking to collaborate on open source projects
-- 💬 Ask me about APIs, databases, and backend architecture
 - ⚡ Fun fact: I debug with console.log() and I'm not ashamed!
 
 ---
@@ -122,7 +121,7 @@ const jmsebas = {
   
   **🚀 "Building the backbone of applications, one endpoint at a time"**
   
-  ![Visitor Count](https://profile-counter.glitch.me/JMSebas/count.svg)
+  ![Profile Views](https://komarev.com/ghpvc/?username=JMSebas&color=blueviolet&style=flat-square&label=Profile+Views)
   
   ⭐️ From [JMSebas](https://github.com/JMSebas)
   
