@@ -64,16 +64,20 @@ const jmsebas = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JMSebas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMSebas&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+  <a href="https://github.com/JMSebas">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JMSebas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
+  </a>
+  <a href="https://github.com/JMSebas">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JMSebas&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10"/>
+  </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JMSebas&theme=tokyonight" alt="GitHub Streak Stats" />
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JMSebas&theme=tokyo-night&hide_border=true" />
+  <a href="https://github.com/JMSebas">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JMSebas&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
+  </a>
 </div>
 
 ---
