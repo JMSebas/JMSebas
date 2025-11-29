@@ -1,97 +1,129 @@
-# Hi, I'm JMSebas! 👨‍💻
+<div align="center">
+  
+# 👨‍💻 Hi, I'm JMSebas!
 
-I'm a passionate developer focused on building robust and scalable backend systems. My primary focus is on server-side development, where I specialize in creating efficient APIs, managing databases, and implementing complex business logic. While I have experience with frontend technologies like React and Tailwind CSS, my true passion and expertise lie in the backend world.
+### Backend Developer | API Enthusiast | Database Architect
 
-I love solving complex problems, writing clean and maintainable code, and continuously learning new technologies. My experience includes working with relational databases, building RESTful APIs, and implementing best practices in software development.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Backend+Developer;API+Designer;Database+Specialist;Problem+Solver" alt="Typing SVG" />
 
-## 🔧 Tech Stack
-
-### Backend
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="Ruby" />
-      <br>Ruby on Rails
-    </td>
-  </tr>
-</table>
-
-### Frontend
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
-      <br>JavaScript
-    </td>
-  </tr>
-</table>
-
-### Databases
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-  </tr>
-</table>
-
-### Tools
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-  </tr>
-</table>
-
-## 📈 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=JMSebas&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JMSebas&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## 📫 Contact
-
-<p align="left">
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-Thanks for visiting my profile! Always open to collaborate on interesting backend projects 🚀
-</p>
+## 🚀 About Me
+
+I'm a passionate developer focused on building **robust and scalable backend systems**. My primary focus is on server-side development, where I specialize in creating efficient APIs, managing databases, and implementing complex business logic.
+
+While I have experience with frontend technologies like **React** and **Tailwind CSS**, my true passion and expertise lie in the **backend world**.
+```javascript
+const jmsebas = {
+    code: ["Java", "JavaScript", "Ruby"],
+    technologies: {
+        backend: ["Node.js", "Ruby on Rails"],
+        frontend: ["React", "Tailwind CSS"],
+        databases: ["MySQL", "PostgreSQL"],
+        tools: ["Git", "Docker", "GitHub"]
+    },
+    currentFocus: "Building scalable RESTful APIs",
+    philosophy: "Clean code is not written by following a set of rules. You know you are working on clean code when it makes you want to read more."
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Backend
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JMSebas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMSebas&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JMSebas&theme=tokyonight" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JMSebas&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JMSebas&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</div>
+
+---
+
+## 💼 What I'm Working On
+
+- 🔭 Building scalable backend systems
+- 🌱 Learning advanced database optimization
+- 👯 Looking to collaborate on open source projects
+- 💬 Ask me about APIs, databases, and backend architecture
+- ⚡ Fun fact: I debug with console.log() and I'm not ashamed!
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](your-portfolio-url)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 Quote of the Day
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+  
+  **🚀 "Building the backbone of applications, one endpoint at a time"**
+  
+  ![Visitor Count](https://profile-counter.glitch.me/JMSebas/count.svg)
+  
+  ⭐️ From [JMSebas](https://github.com/JMSebas)
+  
+</div>
